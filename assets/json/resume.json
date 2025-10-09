@@ -16,6 +16,30 @@
     },
     "profiles": []
   },
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "location": "Philadelphia, PA, USA",
+      "url": "https://www.upenn.edu/",
+      "area": "Robotics, GRASP Lab",
+      "studyType": "Master of Science in Engineering",
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "courses": [],
+      "image": "/assets/img/logos/upenn.png"
+    },
+    {
+      "institution": "University of Michigan",
+      "location": "Ann Arbor, MI, USA",
+      "url": "https://umich.edu/",
+      "area": "Computer Science & Data Science & Linguistics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-09-01",
+      "endDate": "2024-05-01",
+      "courses": [],
+      "image": "/assets/img/logos/umich.png"
+    }
+  ],
   "work": [
     {
       "name": "ByteDance",
@@ -32,7 +56,7 @@
       "image": "/assets/img/logos/bytedance.png"
     },
     {
-      "name": "ZTE",
+      "name": "ZTE Corporation",
       "position": "Machine Learning Engineering Intern - NLP Team",
       "url": "https://www.zte.com.cn/global/",
       "startDate": "2020-06-01",
@@ -71,34 +95,9 @@
       "summary": "",
       "highlights": [
         "Led organization of cultural events and activities for Chinese students and scholars community.",
-        "Coordinated with university administration and managed team of student volunteers.",
-        "Organized networking events, cultural celebrations, and academic support programs."
+        "Coordinated with university administration and managed team of student volunteers."
       ],
       "image": "/assets/img/logos/umcssa.png"
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Pennsylvania",
-      "location": "Philadelphia, PA, USA",
-      "url": "https://www.upenn.edu/",
-      "area": "Robotics",
-      "studyType": "M.S.E",
-      "startDate": "2024-08-01",
-      "endDate": "",
-      "courses": [],
-      "image": "/assets/img/logos/upenn.png"
-    },
-    {
-      "institution": "University of Michigan",
-      "location": "Ann Arbor, MI, USA",
-      "url": "https://umich.edu/",
-      "area": "Computer Science & Data Science & Linguistics",
-      "studyType": "B.S.",
-      "startDate": "2020-09-01",
-      "endDate": "2024-05-01",
-      "courses": [],
-      "image": "/assets/img/logos/umich.png"
     }
   ],
   "certificates": [],
