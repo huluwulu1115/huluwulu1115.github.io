@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching assistant roles at the University of Pennsylvania.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
