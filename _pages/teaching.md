@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching assistant roles at the University of Pennsylvania.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## University of Pennsylvania
 
-Organize your courses by years, topics, or universities, however you like!
+**MEAM 5200: Introduction to Robotics**
+- **Fall 2025**: Head Teaching Assistant
+- **Spring 2025**: Teaching Assistant
+
+MEAM 5200 is a graduate-level course that provides a comprehensive introduction to robotics. Topics covered include kinematics, dynamics, control systems, motion planning, and perception. Students learn both theoretical foundations and practical applications of robotic systems. [Course Info](https://www.grasp.upenn.edu/academics/masters-degree-program/curriculum-information/)
