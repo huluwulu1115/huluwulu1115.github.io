@@ -6,12 +6,10 @@ subtitle: huluyang@seas.upenn.edu / hulu@umich.edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Philadelphia, PA 19104</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by Profs. [Antonio Loquercio](https://antonilo.github.io/) and [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). Previously, I received a B.S. in Computer Science, Data Science, and Linguistics from the University of Michigan, where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/). 
+I'm a second-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by Profs. [Antonio Loquercio](https://antonilo.github.io/) and [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). Previously, I received a B.S. in Computer Science, Data Science, and Linguistics from the University of Michigan, where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
+
+I enjoy exploring new ideas, and that curiosity shapes my research. At the University of Michigan, I explored how semantic knowledge can guide robot planning and policy. At Penn, I focus more on **physics-grounded robot learning** for manipulation and humanoid control.
+
+Outside the lab it’s sim2real for me: ⛰️ trails, 🎾 courts, and 🎞️ 35mm frames.
