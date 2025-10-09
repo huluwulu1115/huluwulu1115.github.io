@@ -48,6 +48,18 @@
         - Developed altitude compensation algorithms for severe weather and extreme high altitude.
         - Tested aircraft control system using various types of drones under different outdoor conditions.
 
+- title: Volunteer
+  type: time_table
+  contents:
+    - title: President
+      institution: University of Michigan Chinese Students and Scholars Association, Ann Arbor, MI, USA
+      logo: /assets/img/logos/umcssa.png
+      year: May 2022 - May 2023
+      description:
+        - Led organization of cultural events and activities for Chinese students and scholars community.
+        - Coordinated with university administration and managed team of student volunteers.
+        - Organized networking events, cultural celebrations, and academic support programs.
+
 - title: Open Source Projects
   type: time_table
   contents:
