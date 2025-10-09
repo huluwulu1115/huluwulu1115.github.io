@@ -2,64 +2,51 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Luyang Hu
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S.E in Robotics, GRASP Lab
+      institution: University of Pennsylvania, Philadelphia, PA, USA
+      logo: /assets/img/logos/upenn.png
+      year: Aug 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    
+    - title: B.S in Computer Science & Data Science & Linguistics
+      institution: University of Michigan, Ann Arbor, MI, USA
+      logo: /assets/img/logos/umich.png
+      year: Sep 2020 - May 2024
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineering Intern - Feishu (Lark) Team
+      institution: <a href="https://www.bytedance.com/" target="_blank">ByteDance</a>, Beijing, China
+      logo: /assets/img/logos/bytedance.png
+      year: May 2022 - May 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Built access control module on existing ShellAPI structure to ensure account security and prevent data leakage.
+        - Implemented thread communication between desktop application and browser for data synchronization.
+    
+    - title: Machine Learning Engineering Intern - NLP Team
+      institution: <a href="https://www.zte.com.cn/global/" target="_blank">ZTE</a>, Nanjing, China
+      logo: /assets/img/logos/zte.png
+      year: Jun 2020 - Aug 2020
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Designed strategies to improve company's search engine efficiency for Local Area Network.
+        - Implemented part of design by training connections between keywords and contents using 5-level CNN.
+    
+    - title: Control System Design Intern
+      institution: <a href="https://www.topxgun.com/" target="_blank">TopxGun</a>, Nanjing, China
+      logo: /assets/img/logos/topxgun.png
+      year: Jun 2019 - Aug 2019
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Developed altitude compensation algorithms for severe weather and extreme high altitude.
+        - Tested aircraft control system using various types of drones under different outdoor conditions.
 
 - title: Open Source Projects
   type: time_table
@@ -67,17 +54,6 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
