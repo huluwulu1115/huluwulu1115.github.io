@@ -11,16 +11,16 @@ This project presents a complete robotic manipulation pipeline for a 7-DoF Frank
 
 ## Demo Videos
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/XAtWq8dhjw4" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center mt-3">
+    <div class="col-md-5 mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/XAtWq8dhjw4?autoplay=1&mute=1&loop=1" class="img-fluid rounded z-depth-1" width="100%" height="315" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/mb1qWnobaxI" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md-5 mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/mb1qWnobaxI?autoplay=1&mute=1&loop=1" class="img-fluid rounded z-depth-1" width="100%" height="315" %}
     </div>
 </div>
 <div class="caption">
-    Final challenge demo videos showing the autonomous pick-and-place system in action.
+    Final challenge demo videos showing the autonomous pick-and-place system in action(Red & Blue Sides).
 </div>
 
 ## Project Images
