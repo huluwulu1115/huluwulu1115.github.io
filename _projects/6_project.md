@@ -1,80 +1,36 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: <img src="/assets/img/logos/flashparking.png" alt="Flash Parking" style="height:1.2em; width:auto; object-fit:contain; vertical-align:middle; margin-right:8px;">Flash Parking&#58; Consumer Sentiment Analysis
+description: Flash Parking · Industry-Sponsored · University of Michigan · 2023
+img: assets/img/12.jpg
+importance: 6
+category: Industry-Sponsored
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+With no consistent metric for FLASH Parking to measure customer satisfaction, the 2023 FLASH MDP Cohort was tasked with developing an automated system to measure customer satisfaction. This system utilizes visual and audio data from parking kiosks.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Project Overview
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project is divided into 3 major parts:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- **Object Detection Subteam**: Focuses on identifying human faces and extracting relevant audio snippets from video footage.
+- **Visual Sentiment Subteam**: Focuses on classifying sentiment from images.
+- **Audio Sentiment Subteam**: Focuses on classifying sentiment from audio.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+We developed, trained, and tested various customer satisfaction assessment models. These models are integrated into automated software for efficient data processing and insight generation.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Technical Details
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The pipeline delivers:
+- A sentiment tag (Positive or Negative)
+- A multimodal sentiment score range [0, 1]
 
-{% raw %}
+**Input formats supported:**
+1. Self-recorded video clip
+2. Real-time camera recording
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+The repository includes both the original code and detailed description of current works, as well as legacy models.
 
-{% endraw %}
+## Project Details
+
+[Additional details, images, or results to be added]

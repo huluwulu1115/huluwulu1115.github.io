@@ -20,14 +20,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by Prof. [Antonio Loquercio](https://antonilo.github.io/) and Prof. [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). 
+I'm a second-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. [Antonio Loquercio](https://antonilo.github.io/) and Prof. [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). 
 
-Previously, I received a B.S. in Computer Science, Data Science, and Linguistics from the University of Michigan, where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
+Previously, I received a B.S. in Computer Science, Data Science, and Linguistics from the [University of Michigan](https://umich.edu/), where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
 
 I enjoy exploring new ideas, and that curiosity shapes my research. At the University of Michigan, I explored how semantic knowledge can guide robot planning and policy. At Penn, I focus more on **physics-grounded robot learning** for manipulation and humanoid control.
 
