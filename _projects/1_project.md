@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Autonomous Dynamic Stacking with Franka Panda
-description: MEAM 5200 Introduction to Robotics · Fall 2024 · 🏆 Course Winner
+description: MEAM 5200 Introduction to Robotics · University of Pennsylvania · Fall 2024 · 🏆 Course Winner
 img: assets/video/pick_place_challenge.gif
 importance: 1
-category: course
+category: Course
 ---
 
 This project presents a complete robotic manipulation pipeline for a 7-DoF Franka Emika Panda arm performing dynamic pick-and-place. By integrating AprilTag-based vision, motion planning, and impedance control within a ROS–Gazebo framework, the system autonomously grasped and stacked both static and rotating dynamic cubes with high precision. Its consistent real-time performance in hardware trials earned 🥇 1st place with a 🏆 record 28,000 points (next best 8,500).
