@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -425,49 +418,49 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-autonomous-dynamic-stacking-with-franka-panda",
           title: 'Autonomous Dynamic Stacking with Franka Panda',
-          description: "MEAM 5200 Introduction to Robotics · Fall 2024 · 🏆 Course Winner",
+          description: "MEAM 5200 Introduction to Robotics · University of Pennsylvania · Fall 2024 · 🏆 Course Winner",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-advanced-robotics-project",
+          title: 'Advanced Robotics Project',
+          description: "MEAM 6200 Advanced Robotics · University of Pennsylvania · Fall 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-learning-in-robotics-project",
+          title: 'Learning in Robotics Project',
+          description: "ESE 6500 Learning in Robotics · University of Pennsylvania · Spring 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-hands-on-robotics-project",
+          title: 'Hands-on Robotics Project',
+          description: "EECS 464 Hands-on Robotics · University of Michigan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-autonomous-robotics-project",
+          title: 'Autonomous Robotics Project',
+          description: "EECS 467 Autonomous Robotics · University of Michigan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-flash-parking-amp-58-consumer-sentiment-analysis",
+          title: 'Flash Parking&amp;amp;#58; Consumer Sentiment Analysis',
+          description: "Flash Parking · Industry-Sponsored · University of Michigan · 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/7_project.md/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/8_project.md/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/9_project.md/";
             },},{
         id: 'social-email',
         title: 'email',
