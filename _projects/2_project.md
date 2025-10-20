@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced Robotics Project
-description: MEAM 6200 Advanced Robotics · University of Pennsylvania · Fall 2024
+description: MEAM 6200 Advanced Robotics · University of Pennsylvania · Spring 2024
 img: assets/img/12.jpg
 importance: 2
 category: Course
