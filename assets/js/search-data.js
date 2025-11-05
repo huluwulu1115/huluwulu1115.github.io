@@ -424,8 +424,8 @@ ninja.data = [{
           description: "ESE 6500 Learning in Robotics · University of Pennsylvania · Spring 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-hands-on-robotics-project",
-          title: 'Hands-on Robotics Project',
+            },},{id: "projects-hands-on-robotics-projects",
+          title: 'Hands-on Robotics Projects',
           description: "EECS 464 Hands-on Robotics · University of Michigan · Fall 2022",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
