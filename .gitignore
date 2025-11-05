@@ -11,3 +11,8 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Large video files (use GIFs for website)
+assets/video/*.mov
+assets/video/*.MOV
+assets/video/*.mp4
