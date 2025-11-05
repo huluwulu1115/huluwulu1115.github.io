@@ -42,26 +42,42 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
+      <div class="mt-5 mb-5">
+        <h2>
+          <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        </h2>
+        {% include news.liquid limit=true %}
+      </div>
     {% endif %}
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
+      <div class="mt-5 mb-5">
+        <h2>
+          <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        </h2>
+        {% include latest_posts.liquid %}
+      </div>
     {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
+      <div class="mt-5 mb-5">
+        <h2>
+          <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        </h2>
+        {% include selected_papers.liquid %}
+      </div>
+    {% endif %}
+
+    <!-- Featured Projects -->
+    {% if page.featured_projects %}
+      <div class="mt-5 mb-5">
+        <h2>
+          <a href="{{ '/projects/' | relative_url }}" style="color: inherit">featured projects</a>
+        </h2>
+        {% include featured_projects.liquid limit=page.projects_limit %}
+      </div>
     {% endif %}
 
     <!-- Social -->
