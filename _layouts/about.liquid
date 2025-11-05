@@ -7,6 +7,9 @@ layout: default
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
+        {% if site.chinese_name %}
+          <span style="font-size: 0.8em; color: var(--global-text-color-light); margin-left: 0.5rem;">({{ site.chinese_name }})</span>
+        {% endif %}
       {% else %}
         {{ site.title }}
       {% endif %}
