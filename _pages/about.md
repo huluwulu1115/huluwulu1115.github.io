@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. [Antonio Loquercio](https://antonilo.github.io/) and Prof. [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). 
+I'm a second-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. [Antonio Loquercio](https://antonilo.github.io/) and Prof. [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/).
 
 Previously, I received a B.S. in Computer Science, Data Science, and Linguistics from the [University of Michigan](https://umich.edu/), where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -10,6 +10,7 @@ nav_order: 6
 ## University of Pennsylvania
 
 **MEAM 5200: Introduction to Robotics**
+
 - **Fall 2025**: Head Teaching Assistant
 - **Spring 2025**: Teaching Assistant
 

@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Joined the GRASP Lab at the University of Pennsylvania! :robot:
-

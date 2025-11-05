@@ -39,12 +39,15 @@ The system integrates three core components working in parallel:
 ## Methodology
 
 #### Object Detection Module
+
 Identifies customer faces from kiosk video feeds and triggers synchronized audio recording. Built using **YOLOv8** trained on a custom dataset of 3,500+ annotated images with data augmentation including rotation, shear, and grayscale conversion for lighting robustness. The model achieved **96.3% mAP** with 91.2% precision and 91.8% recall, producing cropped face images and audio files for downstream analysis.
 
 #### Visual Sentiment Analysis
+
 Classifies facial expressions using a **Vision Transformer (ViT)** pre-trained on ImageNet-21K and fine-tuned on the FER+ dataset (28,709 training images). The model significantly outperformed the legacy CNN approach, achieving **AUC of 0.937** compared to 0.76. A key innovation is **differential learning**, which analyzes emotional trends across video frames using regression slope analysis, enabling dynamic sentiment weighting based on temporal patterns rather than isolated snapshots.
 
 #### Audio Sentiment Analysis
+
 Analyzes emotional tone in customer speech using a **BiLSTM with attention mechanism**. The system first converts audio to text using speech recognition (**95.1% accuracy**), then the BiLSTM encoder captures bidirectional sentence context while the attention layer emphasizes emotionally significant words. Trained on the dair-ai/emotion dataset with emotions reclassified to binary (positive: joy, love, surprise; negative: anger, fear, sadness), the model achieved **89.2% accuracy** and **0.94 AUROC**.
 
 ---

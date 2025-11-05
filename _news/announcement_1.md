@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from the University of Michigan! Forever go blue! :mortar_board: 
+Graduated from the University of Michigan! Forever go blue! :mortar_board:

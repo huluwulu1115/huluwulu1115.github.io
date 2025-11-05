@@ -10,6 +10,7 @@ category: Course
 A semester-long hands-on robotics course at the University of Michigan featuring 3 robot design projects. Each project focused on different **mechanical designs**, **control systems**, and **autonomous behaviors**, providing comprehensive hands-on experience in robotics development.
 
 ### Project 0: Figure-8 Racing Robot
+
 **[Project 0 Report]({{ '/assets/pdf/EECS464_Project0_Report.pdf' | relative_url }})**
 
 Built a robot to race through a **figure-8 track** under remote control using limited "joint" motors (**190° rotation** each). Designed T-shaped base with strategic motor placement and leg linkage mechanisms. Focused on mechanism design, four-bar linkages, rigid body motions, and rapid prototyping with modular robotics kits.
@@ -26,10 +27,11 @@ Built a robot to race through a **figure-8 track** under remote control using li
     Project 0: Figure-8 racing robot demonstration
 </div>
 
-### Project 1: Autonomous Waypoint Navigation  
+### Project 1: Autonomous Waypoint Navigation
+
 **[Project 1 Report]({{ '/assets/pdf/EECS464_Project1_Report.pdf' | relative_url }})**
 
-Developed an **omnidirectional mobile robot** with mecanum wheels for autonomous navigation between waypoints using limited sensing. Implemented **AprilTag-based localization**, **particle filters** for state estimation, and **A* path planning** for trajectory optimization.
+Developed an **omnidirectional mobile robot** with mecanum wheels for autonomous navigation between waypoints using limited sensing. Implemented **AprilTag-based localization**, **particle filters** for state estimation, and **A\* path planning** for trajectory optimization.
 
 <div class="row mt-3 align-items-center">
     <div class="col-sm-6 mt-3 mt-md-0" style="max-height: 315px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
@@ -44,6 +46,7 @@ Developed an **omnidirectional mobile robot** with mecanum wheels for autonomous
 </div>
 
 ### Project 2: Drawing Robot Arm
+
 **[Project 2 Report]({{ '/assets/pdf/EECS464_Project2_Report.pdf' | relative_url }})**
 
 Designed and built an **articulated robot arm** capable of drawing on paper. Featured **three-link kinematics** with counterweights for **gravity compensation**, and **PID control** for precise end-effector positioning and trajectory following.

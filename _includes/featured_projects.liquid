@@ -1,15 +1,14 @@
 <div class="projects">
-  {% assign sorted_projects = site.projects | sort: "importance" %}
+  {% assign sorted_projects = site.projects | sort: 'importance' %}
   {% if include.limit %}
     {% assign projects_limit = include.limit %}
   {% else %}
     {% assign projects_limit = sorted_projects | size %}
   {% endif %}
-  
+
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects limit: projects_limit %}
       {% include projects.liquid %}
     {% endfor %}
   </div>
 </div>
-

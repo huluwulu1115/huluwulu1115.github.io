@@ -14,7 +14,7 @@
       logo: /assets/img/logos/upenn.png
       year: Aug 2024 - present
       description:
-    
+
     - title: B.S in Computer Science & Data Science & Linguistics
       institution: University of Michigan, Ann Arbor, MI, USA
       logo: /assets/img/logos/umich.png
@@ -31,7 +31,7 @@
       description:
         - Built access control module on existing ShellAPI structure to ensure account security and prevent data leakage.
         - Implemented thread communication between desktop application and browser for data synchronization.
-    
+
     - title: Machine Learning Engineering Intern - NLP Team
       institution: <a href="https://www.zte.com.cn/global/" target="_blank">ZTE</a>, Nanjing, China
       logo: /assets/img/logos/zte.png
@@ -39,7 +39,7 @@
       description:
         - Designed strategies to improve company's search engine efficiency for Local Area Network.
         - Implemented part of design by training connections between keywords and contents using 5-level CNN.
-    
+
     - title: Control System Design Intern
       institution: <a href="https://www.topxgun.com/" target="_blank">TopxGun</a>, Nanjing, China
       logo: /assets/img/logos/topxgun.png
