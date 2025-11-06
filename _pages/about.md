@@ -35,3 +35,8 @@ Previously, I received a B.S. in Computer Science, Data Science, and Linguistics
 I enjoy exploring new ideas, and that curiosity shapes my research. At the University of Michigan, I explored how semantic knowledge can guide robot planning and policy. At Penn, I focus more on **physics-grounded robot learning** for manipulation and humanoid control.
 
 Outside the lab it’s sim2real for me: ⛰️trails, 🎾courts, and 🎞️35mm frames.
+
+**I am actively seeking PhD opportunities!**
+
+My research focuses on scaling robot learning in the real world by leveraging both human demonstrations and large-scale synthetic robot data. My previous works embody this ambition — tackling robot planning in semantics-rich environments, modeling agile human motions from visual-servo data, and mastering complex tool-use behaviors through large-scale simulation training and real-world transfer.
+
