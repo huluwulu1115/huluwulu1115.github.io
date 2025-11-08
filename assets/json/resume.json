@@ -32,11 +32,11 @@
       "institution": "University of Michigan",
       "location": "Ann Arbor, MI, USA",
       "url": "https://umich.edu/",
-      "area": "Computer Science & Data Science & Linguistics",
+      "area": "",
       "studyType": "Bachelor of Science",
       "startDate": "2020-09-01",
       "endDate": "2024-05-01",
-      "courses": [],
+      "courses": ["Computer Science (Major)", "Data Science (Major)", "Linguistics (Minor)"],
       "image": "/assets/img/logos/umich.png"
     }
   ],
@@ -95,7 +95,8 @@
       "summary": "",
       "highlights": [
         "Led organization of cultural events and activities for Chinese students and scholars community.",
-        "Coordinated with university administration and managed team of student volunteers."
+        "Coordinated with University administration and established formal collaboration with local PNC Bank, Chase Bank, AT&T, and Michigan Flyer.",
+        "Organized networking events, cultural celebrations, and academic support programs."
       ],
       "image": "/assets/img/logos/umcssa.png"
     }

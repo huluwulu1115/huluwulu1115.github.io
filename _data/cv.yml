@@ -15,13 +15,16 @@
       year: Aug 2024 - present
       description:
 
-    - title: B.S in Computer Science & Data Science & Linguistics
+    - title: Bachelor of Science
       institution: University of Michigan, Ann Arbor, MI, USA
       logo: /assets/img/logos/umich.png
       year: Sep 2020 - May 2024
       description:
+        - Major in Computer Science
+        - Major in Data Science
+        - Minor in Linguistics
 
-- title: Experience
+- title: Internship
   type: time_table
   contents:
     - title: Software Engineering Intern - Feishu (Lark) Team
@@ -48,7 +51,7 @@
         - Developed altitude compensation algorithms for severe weather and extreme high altitude.
         - Tested aircraft control system using various types of drones under different outdoor conditions.
 
-- title: Volunteer
+- title: Leadership
   type: time_table
   contents:
     - title: President
@@ -57,7 +60,7 @@
       year: May 2022 - May 2023
       description:
         - Led organization of cultural events and activities for Chinese students and scholars community.
-        - Coordinated with university administration and managed team of student volunteers.
+        - Coordinated with University administration and established formal collaboration with local PNC Bank, Chase Bank, AT&T, and Michigan Flyer.
         - Organized networking events, cultural celebrations, and academic support programs.
 
 - title: Open Source Projects

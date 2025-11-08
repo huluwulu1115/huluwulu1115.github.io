@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the GRASP Lab at the University of Pennsylvania! :robot:
+Joined the GRASP Lab at the University of Pennsylvania :robot:

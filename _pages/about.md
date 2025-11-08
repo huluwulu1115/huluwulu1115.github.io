@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: huluyang@seas.upenn.edu / hulu@umich.edu
 
@@ -30,13 +30,11 @@ latest_posts:
 
 I'm a second-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. [Antonio Loquercio](https://antonilo.github.io/) and Prof. [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/).
 
-Previously, I received a B.S. in Computer Science, Data Science, and Linguistics from the [University of Michigan](https://umich.edu/), where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
+I earned my bachelor's degree in Computer Science, Data Science, and Linguistics from the [University of Michigan](https://umich.edu/), where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) on how semantic knowledge can guide robot planning and policy learning.
 
-I enjoy exploring new ideas, and that curiosity shapes my research. At the University of Michigan, I explored how semantic knowledge can guide robot planning and policy. At Penn, I focus more on **physics-grounded robot learning** for manipulation and humanoid control.
+At Penn, my research focuses on **scalable and physics-grounded robot learning** for manipulation and humanoid control. I build systems that leverage **foundation models, large-scale simulation, and human motion capture** to teach robots generalizable behaviors across sensing modalities and embodiments. Looking ahead, I'm particularly interested in how robots can move beyond passive data scaling **—learning efficiently through predictive world models and information-aware representations** that enable adaptive, resource-efficient embodied intelligence.
 
-Outside the lab it’s sim2real for me: ⛰️trails, 🎾courts, and 🎞️35mm frames.
+My broader interests lie in **embodied intelligence, robot learning, and data-driven methods** that connect human and robotic understanding. As I approach the end of my master's training, I'm eager to continue pursuing research and am actively seeking PhD opportunities.
 
-**I am actively seeking PhD opportunities!**
-
-My research focuses on scaling robot learning in the real world by leveraging both human demonstrations and large-scale synthetic robot data. My previous works embody this ambition — tackling robot planning in semantics-rich environments, modeling agile human motions from visual-servo data, and mastering complex tool-use behaviors through large-scale simulation training and real-world transfer.
+Outside the lab, it's sim2real for me: ⛰️ trails, 🎾 courts, and 🎞️ 35 mm frames. 
 
