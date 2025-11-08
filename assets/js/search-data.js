@@ -4,34 +4,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -406,10 +406,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-graduated-from-the-university-of-michigan-forever-go-blue-mortar-board",
-          title: 'Graduated from the University of Michigan! Forever go blue! :mortar_board:',
+          title: 'Graduated from the University of Michigan. Forever go blue :mortar_board:',
           description: "",
           section: "News",},{id: "news-joined-the-grasp-lab-at-the-university-of-pennsylvania-robot",
-          title: 'Joined the GRASP Lab at the University of Pennsylvania! :robot:',
+          title: 'Joined the GRASP Lab at the University of Pennsylvania :robot:',
           description: "",
           section: "News",},{id: "news-our-paper-roshi-a-versatile-robot-oriented-suit-for-human-data-in-the-wild-has-been-submitted-to-icra-2026",
           title: 'Our paper RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild has been...',
