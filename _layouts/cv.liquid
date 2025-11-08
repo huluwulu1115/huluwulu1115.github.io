@@ -93,6 +93,24 @@ layout: default
                 Internship
               {% elsif data[0] == 'volunteer' %}
                 Leadership
+              {% elsif data[0] == 'education' %}
+                Education
+              {% elsif data[0] == 'publications' %}
+                Publications
+              {% elsif data[0] == 'projects' %}
+                Projects
+              {% elsif data[0] == 'awards' %}
+                Awards
+              {% elsif data[0] == 'skills' %}
+                Skills
+              {% elsif data[0] == 'languages' %}
+                Languages
+              {% elsif data[0] == 'interests' %}
+                Interests
+              {% elsif data[0] == 'certificates' %}
+                Certificates
+              {% elsif data[0] == 'references' %}
+                References
               {% else %}
                 {{ data[0] | capitalize }}
               {% endif %}
