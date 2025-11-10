@@ -38,3 +38,4 @@ My broader interests lie in **embodied intelligence, robot learning, and data-dr
 
 Outside the lab, it's sim2real for me: ⛰️ trails, 🎾 courts, and 🎞️ 35 mm frames. 
 
+Link to my [CV]({{ '/assets/pdf/CV.pdf' | relative_url }}){:target="_blank"} (last update: Nov 2025).
