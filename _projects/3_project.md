@@ -2,7 +2,7 @@
 layout: page
 title: Towards Scalable Quadruped Imitation
 description: ESE 6500 Learning in Robotics · University of Pennsylvania · Spring 2025
-img: assets/video/quadruped_imitation.gif
+img: assets/video/quadruped_imitation.mp4
 importance: 3
 category: Course
 ---

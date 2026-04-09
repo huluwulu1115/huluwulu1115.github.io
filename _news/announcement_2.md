@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-15 10:00:00-0400
+date: 2025-04-01 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper [RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild](/publications/#mao2025roshi) has been submitted to ICRA 2026!
+Our new paper [RoSHI](https://roshi-mocap.github.io/) is now on [arXiv](https://arxiv.org/abs/2604.07331)! RoSHI is a versatile robot-oriented suit for capturing human motion in the wild.

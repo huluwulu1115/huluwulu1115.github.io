@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Dynamic Stacking with Franka Panda
 description: MEAM 5200 Introduction to Robotics · University of Pennsylvania · Fall 2024 · 🏆 Course Winner
-img: assets/video/pick_place_challenge.gif
+img: assets/video/pick_place_challenge.mp4
 importance: 1
 category: Course
 ---

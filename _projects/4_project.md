@@ -2,7 +2,7 @@
 layout: page
 title: Hands-on Robotics Projects
 description: EECS 464 Hands-on Robotics · University of Michigan · Fall 2022
-img: assets/video/hands_on_robo.gif
+img: assets/video/hands_on_robo.mp4
 importance: 4
 category: Course
 ---
