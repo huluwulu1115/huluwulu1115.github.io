@@ -9,6 +9,7 @@ Personal academic website for Luyang Hu, built on the [al-folio](https://github.
 ## Development Commands
 
 ### Local development with Docker (recommended)
+
 ```bash
 docker compose pull
 docker compose up
@@ -16,6 +17,7 @@ docker compose up
 ```
 
 ### Local development without Docker
+
 ```bash
 bundle install
 pip install jupyter
@@ -24,12 +26,14 @@ bundle exec jekyll serve
 ```
 
 ### Build for production
+
 ```bash
 JEKYLL_ENV=production bundle exec jekyll build
 # Output goes to _site/
 ```
 
 ### Formatting
+
 ```bash
 npx prettier . --check        # check formatting
 npx prettier . --write         # fix formatting
@@ -38,6 +42,7 @@ npx prettier . --write         # fix formatting
 Prettier runs in CI on every push/PR. Uses `@shopify/prettier-plugin-liquid` for Liquid template formatting.
 
 ### Pre-commit hooks
+
 Configured in `.pre-commit-config.yaml`: trailing whitespace, end-of-file fixer, YAML check, large file check.
 
 ## Architecture

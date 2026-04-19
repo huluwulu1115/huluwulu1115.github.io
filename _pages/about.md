@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: huluyang@seas.upenn.edu / hulu@umich.edu
+subtitle: huluyang [at] seas [dot] upenn [dot] edu &nbsp;/&nbsp; hulu [at] umich [dot] edu
 
 profile:
   align: right
@@ -28,13 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an incoming PhD student at [Oregon State University](https://oregonstate.edu/), advised by Prof. [Alan Fern](https://web.engr.oregonstate.edu/~afern/). I'm currently a second-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. [Antonio Loquercio](https://antonilo.github.io/) and Prof. [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/).
+I'm joining [Origami Robotics](https://www.origami-robotics.com/) as a founding research engineer, working on physical AI for general-purpose robotic manipulation. I'm currently a 2nd-year Robotics M.S.E. student in the [GRASP Lab](https://www.grasp.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), advised by [Antonio Loquercio](https://antonilo.github.io/) and [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/).
 
-I earned my bachelor's degree in Computer Science, Data Science, and Linguistics from the [University of Michigan](https://umich.edu/), where I worked with Prof. [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) on how semantic knowledge can guide robot planning and policy learning.
+I earned my B.S. in Computer Science and Data Science (with a minor in Linguistics) from the [University of Michigan](https://umich.edu/), where I worked with [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) on how semantic knowledge can guide robot planning and policy learning.
 
-At Penn, my research focuses on **scalable and physics-grounded robot learning** for manipulation and humanoid control. I build systems that leverage **foundation models, large-scale simulation, and human motion capture** to teach robots generalizable behaviors across sensing modalities and embodiments. Looking ahead, I'm particularly interested in how robots can move beyond passive data scaling **—learning efficiently through predictive world models and information-aware representations** that enable adaptive, resource-efficient embodied intelligence.
+At GRASP, my research focuses on robot learning for manipulation and humanoid control. My work spans foundation models, large-scale simulation, and human motion capture, with the goal of learning robust, transferable behaviors across tasks and diverse sensory inputs.
 
-My broader interests lie in **embodied intelligence, robot learning, and data-driven methods** that connect human and robotic understanding.
-Outside the lab, it's sim2real for me: ⛰️ trails, 🎾 courts, and 🎞️ 35 mm frames. 
+Outside the lab, it's sim2real for me: ⛰️ trails, 🎾 courts, and 🎞️ 35 mm frames.
 
-Link to my [CV]({{ '/assets/pdf/CV.pdf' | relative_url }}){:target="_blank"} (last update: Nov 2025).
+Link to my [CV]({{ '/assets/pdf/CV.pdf' | relative_url }}){:target="\_blank"} (last update: Nov 2025).

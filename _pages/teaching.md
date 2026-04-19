@@ -7,24 +7,19 @@ nav: true
 nav_order: 6
 ---
 
-## University of Pennsylvania
+## <img src="{{ '/assets/img/logos/upenn.png' | relative_url }}" alt="UPenn" style="height: 1em; vertical-align: -0.15em; margin-right: 0.4em;"> University of Pennsylvania
 
-**MEAM 5200: Introduction to Robotics**
+**[MEAM 5200: Introduction to Robotics](https://www.grasp.upenn.edu/academics/masters-degree-program/curriculum-information/)**
 
-- **Fall 2025**: Head Teaching Assistant
-- **Spring 2025**: Teaching Assistant
+A graduate course covering kinematics, dynamics, control, motion planning, and perception, with a capstone project on the Franka Panda arm.
 
-MEAM 5200 is a graduate-level course that provides a comprehensive introduction to robotics. Topics covered include kinematics, dynamics, control systems, motion planning, and perception. Students learn both theoretical foundations and practical applications of robotic manipulation systems. [Course Info](https://www.grasp.upenn.edu/academics/masters-degree-program/curriculum-information/)
+- **Fall 2025**: Head Teaching Assistant. Responsible for designing lab and recitation content, validating robot hardware, and planning the final project.
+- **Spring 2025**: Teaching Assistant.
 
-My role as the teaching assistant for this course includes hosting office hours, answering Ed Discussion questions, grading assignments and exams, and setting up and calibrating robot hardware for recitations and the final project.
+## <img src="{{ '/assets/img/logos/umich.png' | relative_url }}" alt="UMich" style="height: 1em; vertical-align: -0.15em; margin-right: 0.4em;"> University of Michigan
 
-## University of Michigan
+**[MATH 214: Applied Linear Algebra](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)**
 
-**MATH 214: Applied Linear Algebra**
+An applications-oriented introduction to matrix theory and linear algebra for engineering, CS, and applied math students.
 
-- **Fall 2021**: Teaching Assistant
-- **Spring 2022**: Teaching Assistant
-
-MATH 214 introduces matrix theory and linear algebra with an emphasis on applications. Topics include systems of linear equations, matrix operations, determinants, vector spaces, eigenvalues and eigenvectors, and linear transformations. The course is designed for students in engineering, computer science, and applied mathematics. [Course Info](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses/200-level-math-courses.html)
-
-My role as the teaching assistant for this course includes hosting office hours and grading assignments and exams.
+- **Fall 2021**, **Spring 2022**: Teaching Assistant.
